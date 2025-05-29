@@ -1,10 +1,10 @@
 {
-    "name": "Homework 1",
+    "name": "homework-1",
     "version": "1.0.0",
     "description": "Homework-1",
     "scripts": {
-      "push": "git add .; git commit -m 'update'; git push;"
-    },
+  "push": "git add . && git commit -m 'update' && git push"
+},
     "repository": {
       "type": "git",
       "url": "https://github.com/stxpd/goit-js-hw-01"
